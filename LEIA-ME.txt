@@ -1,0 +1,20 @@
+PUBLICAÇÃO NO GITHUB PAGES
+
+1. Entre em github.com e crie um repositório público chamado treino.
+2. Abra o repositório e use Add file > Upload files.
+3. Envie TODOS os arquivos desta pasta (não envie a pasta por fora; envie os arquivos que estão dentro dela).
+4. Clique em Commit changes.
+5. Vá em Settings > Pages.
+6. Em Source, escolha Deploy from a branch.
+7. Selecione main e /root. Clique em Save.
+8. Aguarde 1–3 minutos. O endereço ficará parecido com:
+   https://SEU-USUARIO.github.io/treino/
+
+INSTALAÇÃO NO IPHONE
+
+1. Abra o endereço acima no Safari.
+2. Toque em Compartilhar.
+3. Toque em Adicionar à Tela de Início.
+4. Confirme em Adicionar.
+
+O app abrirá em tela cheia e funcionará offline depois da primeira abertura.
